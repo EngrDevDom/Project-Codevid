@@ -1,0 +1,4 @@
+Initial Commit MSG
+- Create repository (07/24/2020)
+- Define legend (title, xlabel, ylabel)
+- Include Variables (Date, numOfCases)
